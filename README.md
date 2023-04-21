@@ -1,19 +1,22 @@
 # websocket-easy-client
+# WebSocket简易客户端
 
-## Project setup
+## 项目介绍
+通过本简易客户端，可以实现WebSocket连接、发送、接收信息，方便测试WebSocket接口
+
+
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
